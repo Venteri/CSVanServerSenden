@@ -1,7 +1,8 @@
 {
-    "serverAddress": "http://localhost:8080",
-    "username": "user",
+    "serverAddress": "http://192.168.0.241:8080",
+    "username": "username",
     "password": "password",
-    "folderToWatch": "csv"
+    "folderToWatch": "csv",
+    "timeSleep":60
   }
   
